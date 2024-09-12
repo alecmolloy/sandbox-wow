@@ -58,7 +58,8 @@ a:link
 {
 /*    color: #444; */
     color: #ea6262;
-    text-decoration:none;
+    text-decoration-color: #e4e4e4;
+    text-underline-offset: 4px;
 }
 
 a:visited, a:hover, a:active
